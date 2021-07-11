@@ -1,0 +1,46 @@
+body{
+background-image:url("background.jpg");
+/*🙂 This is fun*/
+}
+.btn-info{
+width: 100%;
+text-align: center;
+box-shadow: 10px 10px 20px white;
+border-radius: 40px;
+}
+#longestcss{
+width: 50%;
+background-color: darkturquoise;
+font-size: 18px;
+box-shadow:5px 5px 20px white;
+margin-left: 350px;
+margin-bottom: 10px;
+padding: 10px;
+border-radius: 40px;
+}
+#s{
+margin-top: 10px;
+font-size: 15px;
+}
+#oa{
+background-color: orange;
+border-radius: 40px;
+width: 50%;
+font-family: 'Yellowtail', cursive;
+margin-top: 420;
+}
+#footer{
+background-color:steelblue;
+text-align: center;
+color: white;
+position: fixed;
+bottom:0;
+width: 100%;
+line-height: 1.5;
+}
+canvas{
+    border-width: 5px;
+    border-style: ridge;
+    border-color:teal;
+    
+}
